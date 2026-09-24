@@ -1,4 +1,8 @@
 ---
+genres:
+  - adventure
+  - puzzle
+  - narrative
 post: https://medium.com/@etchells.kevin/you-are-offline-a-js13k-game-2a497347ecad
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
